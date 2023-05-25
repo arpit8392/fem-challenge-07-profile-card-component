@@ -3,7 +3,7 @@ import StatsSummary from './StatsSummary'
 const Card = () => {
 	return (
 		<section
-			className='flex max-w-sm flex-col overflow-hidden rounded-lg bg-white shadow-lg
+			className='z-10 flex max-w-sm flex-col overflow-hidden rounded-lg bg-white shadow-lg
         '>
 			<div>
 				<img
